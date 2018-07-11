@@ -36,4 +36,4 @@ end
 #6: Return the number of ingredients in the `perfect_10_recipe` hash.
 def number_ingredients(perfect_10_recipe)
 end
-perfect_10_recipe = {""
+perfect_10_recipe = {"gluten freewhole oats" => "1 cup", "kosher salt" => "1/2 tsp.", "baking powder" => "1/2"
